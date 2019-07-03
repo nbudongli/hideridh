@@ -1,5 +1,5 @@
 %% ====== This is a demo for hiding the embedding traces left by PEE-HS based RIDH ====
-%% For any problems, please feel free to contact Li Dong at dongli@nbu.edu.cn
+%% For any inquries, please feel free to contact Li Dong at dongli@nbu.edu.cn
 
 clc;clear;
 close all;
